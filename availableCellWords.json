@@ -1,0 +1,605 @@
+{
+  "Distal-tubule-cells": [],
+  "GABAergic-neurons": [],
+  "Retinal-progenitor-cells": [],
+  "Satellite-glial-cells": [],
+  "Gamma-(PP)-cells": [],
+  "T-follicular-helper-cells": [],
+  "Foveolar-cells": [],
+  "Airway-smooth-muscle-cells": [],
+  "Smooth-muscle-cells": [
+    "smooth-muscle-cell"
+  ],
+  "Trophoblast-stem-cells": [],
+  "Cajal-Retzius-cells": [],
+  "Epithelial-cells": [
+    "Epithelial-cell",
+    "epithelial-cells",
+    "epithelial-cell"
+  ],
+  "T-cells": [
+    "T-Cells",
+    "T-CELLS",
+    "T-cell",
+    "t-cells",
+    "T-Cell",
+    "T-cells",
+    "T-CELL",
+    "t-cell"
+  ],
+  "B-cells-memory": [],
+  "Erythroblasts": [
+    "erythroblast",
+    "Erythroblast",
+    "ERYTHROBLASTS",
+    "erythroblasts",
+    "Erythroblasts"
+  ],
+  "Satellite-cells": [
+    "satellite-cell",
+    "satellite-cells"
+  ],
+  "T-helper-cells": [
+    "T-helper-cells",
+    "T-helper-cell"
+  ],
+  "Enterocytes": [
+    "enterocyte",
+    "enterocytes",
+    "Enterocyte",
+    "Enterocytes"
+  ],
+  "Adrenergic-neurons": [],
+  "Ionocytes": [
+    "ionocyte",
+    "Ionocytes",
+    "Ionocyte",
+    "ionocytes"
+  ],
+  "Luteal-cells": [
+    "luteal-cell"
+  ],
+  "Crypt-cells": [
+    "Crypt-cell",
+    "crypt-cell"
+  ],
+  "Leydig-cells": [
+    "Leydig-cells",
+    "Leydig-cell"
+  ],
+  "Hematopoietic-stem-cells": [],
+  "Hepatoblasts": [
+    "Hepatoblast",
+    "hepatoblast",
+    "hepatoblasts",
+    "Hepatoblasts"
+  ],
+  "Erythroid-like-and-erythroid-precursor-cells": [],
+  "Podocytes": [
+    "podocyte",
+    "podocytes",
+    "Podocyte",
+    "Podocytes"
+  ],
+  "Pulmonary-alveolar-type-I-cells": [],
+  "Acinar-cells": [
+    "Acinar-cell",
+    "acinar-cell"
+  ],
+  "Dopaminergic-neurons": [
+    "dopaminergic-neuron"
+  ],
+  "Osteoclasts": [
+    "OSTEOCLASTS",
+    "Osteoclasts",
+    "Osteoclast",
+    "osteoclast",
+    "osteoclasts"
+  ],
+  "Mesothelial-cells": [
+    "mesothelial-cell"
+  ],
+  "Pluripotent-stem-cells": [
+    "pluripotent-stem-cell"
+  ],
+  "Mesangial-cells": [
+    "mesangial-cell"
+  ],
+  "Clara-cells": [
+    "Clara-cell"
+  ],
+  "Neutrophils": [
+    "NEUTROPHILS",
+    "Neutrophils",
+    "Neutrophil",
+    "NEUTROPHIL",
+    "neutrophil",
+    "neutrophils"
+  ],
+  "Epiblast-cells": [],
+  "Plasma-cells": [
+    "Plasma-cells",
+    "Plasma-cell",
+    "Plasma-Cell",
+    "PLASMA-CELL",
+    "plasma-cells",
+    "plasma-cell"
+  ],
+  "Immature-neurons": [],
+  "Meningeal-cells": [],
+  "Neuroendocrine-cells": [],
+  "Vascular-smooth-muscle-cells": [],
+  "Purkinje-neurons": [],
+  "Principal-cells": [
+    "principal-cell"
+  ],
+  "Hepatocytes": [
+    "HEPATOCYTE",
+    "hepatocytes",
+    "Hepatocytes",
+    "Hepatocyte",
+    "HEPATOCYTES",
+    "hepatocyte"
+  ],
+  "Airway-goblet-cells": [],
+  "Ciliated-cells": [
+    "ciliated-cell"
+  ],
+  "Pinealocytes": [
+    "pinealocyte",
+    "Pinealocytes",
+    "Pinealocyte",
+    "pinealocytes"
+  ],
+  "Merkel-cells": [
+    "Merkel-cell"
+  ],
+  "Mammary-epithelial-cells": [],
+  "Keratinocytes": [
+    "KERATINOCYTES",
+    "Keratinocytes",
+    "keratinocyte",
+    "keratinocytes",
+    "KERATINOCYTE",
+    "Keratinocyte"
+  ],
+  "Cardiac-stem-and-precursor-cells": [],
+  "Oligodendrocytes": [
+    "Oligodendrocytes",
+    "Oligodendrocyte",
+    "oligodendrocyte",
+    "oligodendrocytes"
+  ],
+  "Stromal-cells": [
+    "Stromal-cell",
+    "stromal-cell",
+    "stromal-cells",
+    "Stromal-Cell"
+  ],
+  "Natural-killer-T-cells": [],
+  "Hemangioblasts": [
+    "Hemangioblast",
+    "Hemangioblasts",
+    "hemangioblast",
+    "hemangioblasts"
+  ],
+  "Ependymal-cells": [],
+  "Juxtaglomerular-cells": [],
+  "Oxyphil-cells": [],
+  "Bergmann-glia": [
+    "Bergmann-glia"
+  ],
+  "Spermatozoa": [
+    "spermatozoa",
+    "SPERMATOZOA",
+    "Spermatozoa"
+  ],
+  "Cholangiocytes": [
+    "cholangiocyte",
+    "Cholangiocytes",
+    "cholangiocytes",
+    "Cholangiocyte"
+  ],
+  "Myoblasts": [
+    "MYOBLAST",
+    "myoblast",
+    "Myoblasts",
+    "myoblasts",
+    "Myoblast",
+    "MYOBLASTS"
+  ],
+  "Sebocytes": [
+    "Sebocyte",
+    "sebocytes",
+    "sebocyte",
+    "Sebocytes"
+  ],
+  "Retinal-ganglion-cells": [],
+  "M\u00fcller-cells": [],
+  "Nuocytes": [
+    "Nuocytes",
+    "nuocytes",
+    "Nuocyte",
+    "nuocyte"
+  ],
+  "Adipocyte-progenitor-cells": [],
+  "Trophoblast-cells": [],
+  "Neuroblasts": [
+    "neuroblast",
+    "neuroblasts",
+    "Neuroblast",
+    "NEUROBLASTS",
+    "Neuroblasts"
+  ],
+  "Kidney-progenitor-cells": [],
+  "Endothelial-cells-(aorta)": [],
+  "Mast-cells": [
+    "Mast-cell",
+    "mast-cells",
+    "Mast-Cell",
+    "mast-cell"
+  ],
+  "Basophils": [
+    "BASOPHILS",
+    "Basophils",
+    "BASOPHIL",
+    "basophil",
+    "basophils",
+    "Basophil"
+  ],
+  "Myeloid-derived-suppressor-cells": [],
+  "Choroid-plexus-cells": [],
+  "Melanocytes": [
+    "MELANOCYTE",
+    "Melanocyte",
+    "melanocytes",
+    "melanocyte",
+    "Melanocytes",
+    "MELANOCYTES"
+  ],
+  "Enteric-glia-cells": [],
+  "Ductal-cells": [],
+  "T-regulatory-cells": [
+    "T-regulatory-cell"
+  ],
+  "Platelets": [
+    "Platelets",
+    "platelet",
+    "Platelet",
+    "platelets",
+    "PLATELETS",
+    "PLATELET"
+  ],
+  "Myoepithelial-cells": [
+    "myoepithelial-cell"
+  ],
+  "Cardiomyocytes": [
+    "cardiomyocyte",
+    "Cardiomyocyte",
+    "Cardiomyocytes",
+    "cardiomyocytes"
+  ],
+  "Epsilon-cells": [
+    "epsilon-cell",
+    "epsilon-cells"
+  ],
+  "Urothelial-cells": [
+    "urothelial-cell"
+  ],
+  "Olfactory-epithelial-cells": [],
+  "Radial-glia-cells": [],
+  "Trichocytes": [
+    "Trichocyte",
+    "trichocytes",
+    "trichocyte"
+  ],
+  "Tuft-cells": [],
+  "Cholinergic-neurons": [],
+  "Motor-neurons": [
+    "motor-neuron",
+    "Motor-neuron",
+    "motor-neurons"
+  ],
+  "Hepatic-stellate-cells": [],
+  "Goblet-cells": [
+    "Goblet-cell",
+    "goblet-cell",
+    "goblet-cells"
+  ],
+  "Taste-receptor-cells": [],
+  "Follicular-cells": [
+    "follicular-cell",
+    "Follicular-cell"
+  ],
+  "Endothelial-cells": [
+    "endothelial-cell",
+    "endothelial-cells",
+    "Endothelial-cell"
+  ],
+  "Noradrenergic-neurons": [],
+  "Endothelial-cells-(blood-brain-barrier)": [],
+  "B-cells-naive": [],
+  "Myofibroblasts": [
+    "myofibroblasts",
+    "Myofibroblasts",
+    "myofibroblast",
+    "Myofibroblast"
+  ],
+  "Macrophages": [
+    "Macrophage",
+    "MACROPHAGE",
+    "MACROPHAGES",
+    "Macrophages",
+    "macrophages",
+    "macrophage"
+  ],
+  "Enteric-neurons": [],
+  "Parietal-cells": [
+    "parietal-cell",
+    "Parietal-cell"
+  ],
+  "Glomus-cells": [],
+  "Dendritic-cells": [
+    "dendritic-cell",
+    "Dendritic-cell",
+    "dendritic-cells"
+  ],
+  "Trigeminal-neurons": [],
+  "Pancreatic-progenitor-cells": [],
+  "Purkinje-fiber-cells": [],
+  "His-bundle-cells": [],
+  "Oligodendrocyte-progenitor-cells": [],
+  "Enterochromaffin-cells": [
+    "enterochromaffin-cell"
+  ],
+  "Alpha-cells": [
+    "Alpha-cells",
+    "alpha-cells",
+    "Alpha-cell",
+    "alpha-cell"
+  ],
+  "Peri-islet-Schwann-cells": [],
+  "Eosinophils": [
+    "Eosinophil",
+    "eosinophil",
+    "Eosinophils",
+    "EOSINOPHILS",
+    "eosinophils",
+    "EOSINOPHIL"
+  ],
+  "Thymocytes": [
+    "THYMOCYTE",
+    "thymocyte",
+    "thymocytes",
+    "THYMOCYTES",
+    "Thymocytes",
+    "Thymocyte"
+  ],
+  "Peritubular-myoid-cells": [],
+  "Delta-cells": [
+    "Delta-cells",
+    "delta-cell",
+    "delta-cells"
+  ],
+  "Microfold-cells": [],
+  "Chromaffin-cells": [
+    "chromaffin-cell"
+  ],
+  "Beta-cells": [
+    "Beta-cell",
+    "beta-cell",
+    "beta-cells",
+    "Beta-cells",
+    "Beta-Cells",
+    "Beta-Cell"
+  ],
+  "Glycinergic-neurons": [],
+  "Tanycytes": [
+    "tanycyte",
+    "Tanycytes",
+    "Tanycyte",
+    "tanycytes"
+  ],
+  "NK-cells": [
+    "NK-cell",
+    "NK-cells",
+    "NK-Cells",
+    "NK-Cell"
+  ],
+  "T-cells-naive": [],
+  "Loop-of-Henle-cells": [],
+  "Astrocytes": [
+    "Astrocytes",
+    "astrocyte",
+    "ASTROCYTE",
+    "Astrocyte",
+    "astrocytes",
+    "ASTROCYTES"
+  ],
+  "T-memory-cells": [],
+  "T-cytotoxic-cells": [],
+  "Osteoclast-precursor-cells": [],
+  "Trophoblast-progenitor-cells": [],
+  "Pericytes": [
+    "Pericyte",
+    "PERICYTES",
+    "Pericytes",
+    "pericyte",
+    "pericytes"
+  ],
+  "Parathyroid-chief-cells": [],
+  "Fibroblasts": [
+    "Fibroblast",
+    "FIBROBLASTS",
+    "Fibroblasts",
+    "FIBROBLAST",
+    "fibroblast",
+    "fibroblasts"
+  ],
+  "Pulmonary-vascular-smooth-muscle-cells": [],
+  "Glutaminergic-neurons": [],
+  "Germ-cells": [
+    "Germ-Cell",
+    "germ-cell",
+    "Germ-cell",
+    "germ-cells"
+  ],
+  "Neural-stem/precursor-cells": [],
+  "Gamma-delta-T-cells": [],
+  "Red-pulp-macrophages": [],
+  "Embryonic-stem-cells": [],
+  "Myocytes": [
+    "myocyte",
+    "MYOCYTE",
+    "Myocytes",
+    "myocytes",
+    "Myocyte"
+  ],
+  "Osteoblasts": [
+    "OSTEOBLASTS",
+    "Osteoblasts",
+    "osteoblast",
+    "Osteoblast",
+    "OSTEOBLAST",
+    "osteoblasts"
+  ],
+  "Pancreatic-stellate-cells": [],
+  "Basal-cells": [
+    "Basal-Cell",
+    "Basal-cell",
+    "BASAL-CELL",
+    "basal-cell"
+  ],
+  "Photoreceptor-cells": [
+    "photoreceptor-cell"
+  ],
+  "Reticulocytes": [
+    "RETICULOCYTES",
+    "reticulocytes",
+    "Reticulocytes",
+    "RETICULOCYTE",
+    "reticulocyte",
+    "Reticulocyte"
+  ],
+  "Sertoli-cells": [
+    "Sertoli-cells",
+    "sertoli-cell",
+    "Sertoli-cell"
+  ],
+  "Undefined-placental-cells": [],
+  "Gastric-chief-cells": [],
+  "Salivary-mucous-cells": [],
+  "Microglia": [
+    "Microglia",
+    "microglia",
+    "MICROGLIA"
+  ],
+  "Paneth-cells": [
+    "Paneth-cell"
+  ],
+  "Pyramidal-cells": [
+    "pyramidal-cell"
+  ],
+  "Schwann-cells": [
+    "Schwann-cells",
+    "Schwann-cell"
+  ],
+  "Kupffer-cells": [
+    "Kupffer-cell",
+    "Kupffer-cells"
+  ],
+  "Proximal-tubule-cells": [],
+  "Neurons": [
+    "Neurons",
+    "neuron",
+    "neurons",
+    "NEURONS",
+    "Neuron",
+    "NEURON"
+  ],
+  "Alveolar-macrophages": [
+    "alveolar-macrophages",
+    "alveolar-macrophage"
+  ],
+  "Interneurons": [
+    "interneurons",
+    "INTERNEURON",
+    "INTERNEURONS",
+    "Interneuron",
+    "Interneurons",
+    "interneuron"
+  ],
+  "Granulosa-cells": [
+    "Granulosa-cell",
+    "granulosa-cells",
+    "granulosa-cell"
+  ],
+  "Spermatocytes": [
+    "Spermatocytes",
+    "spermatocyte",
+    "SPERMATOCYTES",
+    "spermatocytes",
+    "Spermatocyte"
+  ],
+  "Langerhans-cells": [
+    "Langerhans-cell",
+    "Langerhans-cells"
+  ],
+  "Decidual-cells": [],
+  "Megakaryocytes": [
+    "Megakaryocytes",
+    "megakaryocytes",
+    "megakaryocyte",
+    "Megakaryocyte",
+    "MEGAKARYOCYTES"
+  ],
+  "Adipocytes": [
+    "adipocyte",
+    "Adipocyte",
+    "ADIPOCYTE",
+    "Adipocytes",
+    "ADIPOCYTES",
+    "adipocytes"
+  ],
+  "Transient-cells": [
+    "transient-cell"
+  ],
+  "Osteocytes": [
+    "osteocyte",
+    "Osteocyte",
+    "Osteocytes",
+    "osteocytes"
+  ],
+  "Intercalated-cells": [],
+  "Enteroendocrine-cells": [],
+  "Monocytes": [
+    "MONOCYTES",
+    "Monocyte",
+    "monocyte",
+    "monocytes",
+    "Monocytes",
+    "MONOCYTE"
+  ],
+  "Luminal-epithelial-cells": [],
+  "B-cells": [
+    "B-CELL",
+    "B-Cells",
+    "B-Cell",
+    "B-cell",
+    "b-cells",
+    "B-cells",
+    "b-cell"
+  ],
+  "Serotonergic-neurons": [],
+  "Chondrocytes": [
+    "CHONDROCYTES",
+    "Chondrocyte",
+    "Chondrocytes",
+    "chondrocyte",
+    "chondrocytes"
+  ],
+  "Anterior-pituitary-gland-cells": [],
+  "Plasmacytoid-dendritic-cells": [],
+  "Pulmonary-alveolar-type-II-cells": [],
+  "Airway-epithelial-cells": []
+}
