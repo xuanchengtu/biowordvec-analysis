@@ -1,4 +1,4 @@
-PubMed-and-PMC-w2v.bin
+raw_data/PubMed-and-PMC-w2v.bin
 venv/
 .ipynb_checkpoints/
 __pycache__/
