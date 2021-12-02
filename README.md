@@ -6,4 +6,4 @@ Goals of this project:
 ### Folder description
 img: contains scatter plot images that shows dimentionality-reduced word vector data\
 output_data: contains data of cell-gene word pairs, word variations that are found in the model, word vectors, and dimentionality-reduced word vectors in json and tsv format.\
-raw_data: contains data from PanglaoDB that includes cell types and marker genes that are related. The BioWordVec model data is not uploaded to GitHub since its file size is too big.\
+raw_data: contains data from PanglaoDB that includes cell types and marker genes that are related. The BioWordVec model data is not uploaded to GitHub since its file size is too big.
